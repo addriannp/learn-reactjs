@@ -1,0 +1,33 @@
+body{
+    font-family: 'Concert One', cursive;
+}
+h1 {
+    color: #b47a22
+}
+.date {
+    font-family: 'Concert One', cursive;
+    text-align: center;
+    color: antiquewhite;
+    font-weight: bold;
+    font-size: 2em;
+    width: 400px;
+    height: 40%;
+    background-color: #3620b3;
+    padding: 1em 2em 3em 4em;
+}
+
+#tagline {
+    color: aqua;
+}
+
+p,
+a,
+.date {
+    font-family: 'Concert One', cursive;
+    border: 1px solid black;
+    margin: .5em auto;
+}
+
+p a {
+    font-size: 6em;
+}
