@@ -31,3 +31,15 @@ a,
 p a {
     font-size: 6em;
 }
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    width: 100%;
+}
+th, td {
+    padding: 20px;
+    color: aliceblue;
+    border: 1px solid black;
+    text-align: left;
+}
