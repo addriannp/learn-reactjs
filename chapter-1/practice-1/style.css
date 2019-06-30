@@ -35,11 +35,10 @@ p a {
 table, th, td {
     border-collapse: collapse;
     border: 1px solid black;
-    width: 100%;
 }
 th, td {
     padding: 20px;
-    color: aliceblue;
+    color: black;
     border: 1px solid black;
     text-align: left;
 }
