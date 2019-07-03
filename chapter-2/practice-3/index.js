@@ -18,3 +18,8 @@ const students = [{
 
 let longGrades = students.filter(student => student.grade < 55);
 console.log('below 55 is ', longGrades)
+
+let maleStudents = ['Budi, Gorge, James'];
+
+const maleStudents1 = maleStudents.map(x = male);
+console.log(' Budi Gorge and James are', maleStudents1)
